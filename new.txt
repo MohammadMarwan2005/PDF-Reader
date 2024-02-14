@@ -1,1 +1,4 @@
 Hello, I am editing this file
+---------------
+This file now is: modifided file, you should add it, or restore the last local version of it..
+
